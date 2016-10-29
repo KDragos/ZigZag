@@ -1,3 +1,9 @@
+#Unity files
+/Temp/
+/Library/
+/obj/
+
+
 # Built application files
 *.apk
 *.ap_
